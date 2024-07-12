@@ -50,9 +50,15 @@ This ARMGI9854WXZ59 Specials Pseudo Root Access Installer script is released und
 ## Credits
 
 ARMGI9854WXZ59 Specials Pseudo Root Access Installer is made and modified by ARMGI9854WXZ59 [ Alex Mahdi ]
+
 Foxytoux Installer is developed and maintained by RecodeStudios.Cloud.
+
 This installer has been made possible thanks to [dxomg](https://github.com/dxomg) for his proot code
 
 ---
 
-**Note:** This script is intended for educational and experimental purposes. Use it responsibly and at your own risk.
+**Note:** 
+
+This script is made for educational and experimental purposes. 
+
+You can use it responsibly and at your own risk.
